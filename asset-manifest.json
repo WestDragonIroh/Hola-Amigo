@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Hola-Amigo/static/css/main.3ffa77a0.chunk.css",
-    "main.js": "/Hola-Amigo/static/js/main.582a87be.chunk.js",
-    "main.js.map": "/Hola-Amigo/static/js/main.582a87be.chunk.js.map",
+    "main.css": "/Hola-Amigo/static/css/main.788d68af.chunk.css",
+    "main.js": "/Hola-Amigo/static/js/main.6e37c3f6.chunk.js",
+    "main.js.map": "/Hola-Amigo/static/js/main.6e37c3f6.chunk.js.map",
     "runtime-main.js": "/Hola-Amigo/static/js/runtime-main.fcba7000.js",
     "runtime-main.js.map": "/Hola-Amigo/static/js/runtime-main.fcba7000.js.map",
     "static/css/2.78afd4a5.chunk.css": "/Hola-Amigo/static/css/2.78afd4a5.chunk.css",
-    "static/js/2.93ed372e.chunk.js": "/Hola-Amigo/static/js/2.93ed372e.chunk.js",
-    "static/js/2.93ed372e.chunk.js.map": "/Hola-Amigo/static/js/2.93ed372e.chunk.js.map",
+    "static/js/2.0ba5803c.chunk.js": "/Hola-Amigo/static/js/2.0ba5803c.chunk.js",
+    "static/js/2.0ba5803c.chunk.js.map": "/Hola-Amigo/static/js/2.0ba5803c.chunk.js.map",
     "index.html": "/Hola-Amigo/index.html",
     "static/css/2.78afd4a5.chunk.css.map": "/Hola-Amigo/static/css/2.78afd4a5.chunk.css.map",
-    "static/css/main.3ffa77a0.chunk.css.map": "/Hola-Amigo/static/css/main.3ffa77a0.chunk.css.map",
-    "static/js/2.93ed372e.chunk.js.LICENSE.txt": "/Hola-Amigo/static/js/2.93ed372e.chunk.js.LICENSE.txt"
+    "static/css/main.788d68af.chunk.css.map": "/Hola-Amigo/static/css/main.788d68af.chunk.css.map",
+    "static/js/2.0ba5803c.chunk.js.LICENSE.txt": "/Hola-Amigo/static/js/2.0ba5803c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fcba7000.js",
     "static/css/2.78afd4a5.chunk.css",
-    "static/js/2.93ed372e.chunk.js",
-    "static/css/main.3ffa77a0.chunk.css",
-    "static/js/main.582a87be.chunk.js"
+    "static/js/2.0ba5803c.chunk.js",
+    "static/css/main.788d68af.chunk.css",
+    "static/js/main.6e37c3f6.chunk.js"
   ]
 }
